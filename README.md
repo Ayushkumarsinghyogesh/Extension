@@ -1,2 +1,3 @@
 # extension_GOOGLE
- Google chrome Extension 
+ Google Chrome Extension 
+ fetches jokes using API, DEISGNED for fun, and in the future looking forward to publishing. 
